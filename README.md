@@ -26,7 +26,7 @@ To run the Business Cards Website locally, you need to have Node.js and npm (Nod
 2. Navigate to the project folder using the terminal or command prompt.
 
    ```
-   cd business-cards-website
+   cd Cards-Project
    ```
 
 3. Install the required npm packages by running the following command:
@@ -34,16 +34,6 @@ To run the Business Cards Website locally, you need to have Node.js and npm (Nod
    ```
    npm install
    ```
-
-### Launching the React Project
-
-After installing the necessary packages, you can launch the React project using the following command:
-
-```
-npm start
-```
-
-The development server will start, and the Business Cards Website will be accessible in your web browser at `http://localhost:3000`.
 
 ### Running the Server
 
@@ -68,6 +58,16 @@ Before using the Business Cards Website, you also need to run the server applica
    ```
 
 The server will be up and running, enabling the website to communicate with the server for user authentication and business card management.
+
+### Launching the React Project
+
+After installing the necessary packages, you can launch the React project using the following command:
+
+```
+npm start
+```
+
+The development server will start, and the Business Cards Website will be accessible in your web browser at `http://localhost:3000`.
 
 ## Features
 
@@ -108,4 +108,4 @@ The server will be up and running, enabling the website to communicate with the 
 Feel free to explore the various features and create, manage, and organize your business cards effortlessly.
 
 If you have any issues or questions, please feel free to reach out to our support team. Happy networking!
-"# Cards-Project" 
+"# Cards-Project"
